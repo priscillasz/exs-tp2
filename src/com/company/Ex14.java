@@ -18,7 +18,7 @@ public class Ex14 {
             nota = scan.nextFloat();
             if (nota > maiorNota)
                 maiorNota = nota;
-            if (nota < menorNota && nota != -1) // ??????
+            if (nota < menorNota && nota != -1) // ????????
                 menorNota = nota;
             soma += nota;
             if (nota != -1)
